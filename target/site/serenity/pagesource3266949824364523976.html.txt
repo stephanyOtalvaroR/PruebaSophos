@@ -1,0 +1,1921 @@
+<html class="html" lang="es-ES" itemscope="" itemtype="http://schema.org/WebPage"><head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>Has buscado java - Sophos Solutions S.A.S</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- This site is optimized with the Yoast SEO plugin v13.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow">
+<link rel="next" href="https://www.sophossolutions.com/search/java/page/2/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:type" content="object">
+<meta property="og:title" content="Has buscado java - Sophos Solutions S.A.S">
+<meta property="og:url" content="https://www.sophossolutions.com/search/java/">
+<meta property="og:site_name" content="Sophos Solutions S.A.S">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Has buscado java - Sophos Solutions S.A.S">
+<meta name="twitter:site" content="@sophossolutions">
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/rPvs0Nyx3sANE-ZHUN-0nM85/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-XydSOQEpNDQpC70hljZEK4A0oRZyZwbqZiHdGMROed8SRlxyTNfCFLHYgW19x0iC"></script><script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.sophossolutions.com/#website","url":"https://www.sophossolutions.com/","name":"Sophos Solutions S.A.S","inLanguage":"es","description":"Sophos Solutions S.A.S","potentialAction":{"@type":"SearchAction","target":"https://www.sophossolutions.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"SearchResultsPage","@id":"https://www.sophossolutions.com/search/java/#webpage","url":"https://www.sophossolutions.com/search/java/","name":"Has buscado java - Sophos Solutions S.A.S","isPartOf":{"@id":"https://www.sophossolutions.com/#website"},"inLanguage":"es"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Sophos Solutions S.A.S » Feed" href="https://www.sophossolutions.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Sophos Solutions S.A.S » Feed de los comentarios" href="https://www.sophossolutions.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Sophos Solutions S.A.S » Resultados de búsqueda del feed «java»" href="https://www.sophossolutions.com/search/java/feed/rss2/">
+		<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.sophossolutions.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.7"}};!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="https://www.sophossolutions.com/wp-includes/js/wp-emoji-release.min.js?ver=5.5.7" type="text/javascript" defer=""></script>
+		<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+	<link rel="stylesheet" id="elementor-frontend-legacy-css" href="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.10" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.10" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-6100-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-6100.css?ver=1620771059" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-6075-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-6075.css?ver=1620771628" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-6072-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-6072.css?ver=1620771616" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-6084-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-6084.css?ver=1620771466" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-5888-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-5888.css?ver=1620771590" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-5868-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-5868.css?ver=1620771516" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-6047-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-6047.css?ver=1620771492" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-6039-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-6039.css?ver=1620771550" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.sophossolutions.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.7" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-theme-css" href="https://www.sophossolutions.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.7" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.sophossolutions.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7" type="text/css" media="all">
+<style id="wpml-legacy-horizontal-list-0-css" media="all">.wpml-ls-legacy-list-horizontal{border:1px solid transparent;padding:7px;clear:both}.wpml-ls-legacy-list-horizontal>ul{padding:0;margin:0!important;list-style-type:none}.wpml-ls-legacy-list-horizontal .wpml-ls-item{padding:0;margin:0;list-style-type:none;display:inline-block}.wpml-ls-legacy-list-horizontal a{display:block;text-decoration:none;padding:5px 10px;line-height:1}.wpml-ls-legacy-list-horizontal a span{vertical-align:middle}.wpml-ls-legacy-list-horizontal .wpml-ls-flag{display:inline;vertical-align:middle;width:18px;height:12px}.wpml-ls-legacy-list-horizontal .wpml-ls-flag+span{margin-left:.4em}.rtl .wpml-ls-legacy-list-horizontal .wpml-ls-flag+span{margin-left:0;margin-right:.4em}.wpml-ls-legacy-list-horizontal.wpml-ls-statics-footer{margin-bottom:30px}.wpml-ls-legacy-list-horizontal.wpml-ls-statics-footer>ul{text-align:center}</style>
+<style id="wpml-menu-item-0-css" media="all">.wpml-ls-menu-item .wpml-ls-flag{display:inline;vertical-align:baseline;width:18px;height:12px}.wpml-ls-menu-item .wpml-ls-flag+span{margin-left:.3em}.rtl .wpml-ls-menu-item .wpml-ls-flag+span{margin-left:0;margin-right:.3em}</style>
+<link rel="stylesheet" id="wpml-tm-admin-bar-css" href="https://www.sophossolutions.com/wp-content/plugins/wpml-translation-management/res/css/admin-bar-style.css?ver=2.9.5" type="text/css" media="all">
+<link rel="stylesheet" id="megamenu-css" href="https://www.sophossolutions.com/wp-content/uploads/maxmegamenu/style_es.css?ver=6d8a79" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.sophossolutions.com/wp-includes/css/dashicons.min.css?ver=5.5.7" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://www.sophossolutions.com/wp-content/themes/oceanwp/assets/css/third/font-awesome.min.css?ver=4.7.0" type="text/css" media="all">
+<link rel="stylesheet" id="simple-line-icons-css" href="https://www.sophossolutions.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="https://www.sophossolutions.com/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="slick-css" href="https://www.sophossolutions.com/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="oceanwp-style-css" href="https://www.sophossolutions.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="oceanwp-google-font-palanquin-dark-css" href="//fonts.googleapis.com/css?family=Palanquin+Dark%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&amp;subset=latin&amp;ver=5.5.7" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-animations-css" href="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.10" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-6015-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-6015.css?ver=1620765280" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="https://www.sophossolutions.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.5" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/global.css?ver=1620765280" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-9-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-9.css?ver=1633548265" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-320-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-320.css?ver=1635968718" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-837-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-837.css?ver=1620771502" type="text/css" media="all">
+<link rel="stylesheet" id="cf7cf-style-css" href="https://www.sophossolutions.com/wp-content/plugins/cf7-conditional-fields/style.css?ver=1.8.3" type="text/css" media="all">
+<link rel="stylesheet" id="oe-widgets-style-css" href="https://www.sophossolutions.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.5.7" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CHeebo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.5.7" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0" type="text/css" media="all">
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js?ver=3.1.1" id="jquery-core-js"></script>
+<script type="text/javascript" id="wpml-browser-redirect-js-extra">//<![CDATA[
+var wpml_browser_redirect_params={"pageLanguage":"es","languageUrls":{"es_ES":"https:\/\/www.sophossolutions.com\/?s=java","es":"https:\/\/www.sophossolutions.com\/?s=java","ES":"https:\/\/www.sophossolutions.com\/?s=java","en_US":"https:\/\/www.sophossolutions.com\/en\/?s=java","en":"https:\/\/www.sophossolutions.com\/en\/?s=java","US":"https:\/\/www.sophossolutions.com\/en\/?s=java"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.sophossolutions.com","path":"\/","expiration":24}};
+//]]></script>
+<script type="text/javascript" src="http://www.sophossolutions.com/wp-content/plugins/sitepress-multilingual-cms/dist/js/browser-redirect/app.js,qver=4.3.7.pagespeed.jm.kUcUoHf6h1.js" id="wpml-browser-redirect-js"></script>
+<link rel="https://api.w.org/" href="https://www.sophossolutions.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.sophossolutions.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.sophossolutions.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.5.7">
+<meta name="generator" content="WPML ver:4.3.7 stt:1,2;">
+
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-156343739-1"></script>
+		<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-156343739-1');</script>
+
+	    <script language="JavaScript" type="text/javascript">;(function($){'use strict'
+var testMobile;var isMobile={Android:function(){return navigator.userAgent.match(/Android/i);},BlackBerry:function(){return navigator.userAgent.match(/BlackBerry/i);},iOS:function(){return navigator.userAgent.match(/iPhone|iPad|iPod/i);},Opera:function(){return navigator.userAgent.match(/Opera Mini/i);},Windows:function(){return navigator.userAgent.match(/IEMobile/i);},any:function(){return(isMobile.Android()||isMobile.BlackBerry()||isMobile.iOS()||isMobile.Opera()||isMobile.Windows());}};var parallax=function(){testMobile=isMobile.any();if(testMobile==null){$(".parallax").parallax("50%",0.3);}};$(function(){parallax();});})(jQuery);!function(n){var t=n(window),e=t.height();t.resize(function(){e=t.height()}),n.fn.parallax=function(o,r,i){function u(){var i=t.scrollTop();l.each(function(t,u){var l=n(u),f=l.offset().top,s=a(l);i>f+s||f>i+e||l.css("backgroundPosition",o+" "+Math.round((l.data("firstTop")-i)*r)+"px")})}var a,l=n(this);l.each(function(t,e){$element=n(e),$element.data("firstTop",$element.offset().top)}),a=i?function(n){return n.outerHeight(!0)}:function(n){return n.height()},(arguments.length<1||null===o)&&(o="50%"),(arguments.length<2||null===r)&&(r=.1),(arguments.length<3||null===i)&&(i=!0),t.bind("scroll",u).resize(u),u()}}(jQuery);</script>
+    <style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important}</style><style type="text/css" id="sns_global_styles">.sg-popup-content{background-color:transparent!important;border:none!important;box-shadow:none!important}.page-header{margin-top:16rem}</style><link rel="icon" href="https://www.sophossolutions.com/wp-content/uploads/2019/10/cropped-logo_sophos_home-32x32.png" sizes="32x32">
+<link rel="icon" href="https://www.sophossolutions.com/wp-content/uploads/2019/10/cropped-logo_sophos_home-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.sophossolutions.com/wp-content/uploads/2019/10/cropped-logo_sophos_home-180x180.png">
+<meta name="msapplication-TileImage" content="https://www.sophossolutions.com/wp-content/uploads/2019/10/cropped-logo_sophos_home-270x270.png">
+<style type="text/css"></style>
+<!-- OceanWP CSS -->
+<style type="text/css">a:hover,a.light:hover,.theme-heading .text::before,#top-bar-content>a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu>li>a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active>a,.sidr-class-menu-item-has-children.active>a>.sidr-class-dropdown-toggle,input[type="checkbox"]:checked:before{color:#980d24}input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu>li.btn>a>span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type="submit"],body div.wpforms-container-full .wpforms-form button[type="submit"],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#980d24}.widget-title{border-color:#980d24}blockquote{border-color:#980d24}#searchform-dropdown{border-color:#980d24}.dropdown-menu .sub-menu{border-color:#980d24}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#980d24}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#980d24}.social-widget li.oceanwp-email a:hover{border-color:#980d24}#respond #cancel-comment-reply-link:hover{border-color:#980d24}body .contact-info-widget.big-icons li:hover i{border-color:#980d24}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#980d24}input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,#site-navigation-wrap .dropdown-menu>li.btn>a:hover>span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type="submit"]:hover,body div.wpforms-container-full .wpforms-form button[type="submit"]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#99545c}a{color:#980d24}a:hover{color:#99545c}.container{width:1199px}.page-header,.has-transparent-header .page-header{padding:0}.site-breadcrumbs a,.background-image-page-header .site-breadcrumbs a{color:#980d24}.site-breadcrumbs a:hover,.background-image-page-header .site-breadcrumbs a:hover{color:#99404c}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:242px}#site-navigation-wrap .dropdown-menu>li>a,#site-header.full_screen-header .fs-dropdown-menu>li>a,#site-header.top-header #site-navigation-wrap .dropdown-menu>li>a,#site-header.center-header #site-navigation-wrap .dropdown-menu>li>a,#site-header.medium-header #site-navigation-wrap .dropdown-menu>li>a,.oceanwp-mobile-menu-icon a{font-family:Palanquin\ Dark}</style>	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-156343739-1"></script>
+	<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-156343739-1');</script>
+	
+</head>
+
+<body class="search search-results wp-custom-logo wp-embed-responsive mega-menu-max-mega-menu-1 oceanwp-theme sidebar-mobile default-breakpoint content-full-width content-max-width page-header-disabled has-breadcrumbs has-blog-grid elementor-default elementor-template-full-width elementor-kit-6015 elementor-page-837" data-elementor-device-mode="desktop">
+
+	
+	<div id="outer-wrap" class="site clr">
+
+		
+		<div id="wrap" class="clr">
+
+			
+			
+<header id="site-header" class="clr" data-height="74" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+
+			<div data-elementor-type="header" data-elementor-id="9" class="elementor elementor-9 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<header class="elementor-section elementor-top-section elementor-element elementor-element-63b1fa72 elementor-section-content-middle elementor-section-height-min-height animate_menu menu_home elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-sticky elementor-sticky--effects elementor-sticky--active elementor-section--handles-inside" data-id="63b1fa72" data-element_type="section" id="header_menu_principal" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;animation_mobile&quot;:&quot;fadeInDown&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" style="position: fixed; width: 1903px; margin-top: 0px; margin-bottom: 0px; top: 0px;">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-28c315f1" data-id="28c315f1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-c9058c0 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c9058c0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-121925d" data-id="121925d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5c418e8 elementor-widget elementor-widget-image" data-id="5c418e8" data-element_type="widget" id="logo_header" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.sophossolutions.com">
+							<script data-pagespeed-no-defer="">//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://www.sophossolutions.com/?s=java','8Xxa2XQLv9',true,false,'0UPPnwG1u9U');
+//]]></script><img width="300" height="64" src="https://www.sophossolutions.com/wp-content/uploads/2020/11/web_logo_Sophos_Color-300x64.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2020/11/web_logo_Sophos_Color-300x64.png 300w, https://www.sophossolutions.com/wp-content/uploads/2020/11/web_logo_Sophos_Color.png 481w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="3838005893" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-14bc539" data-id="14bc539" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-11ad99a elementor-widget elementor-widget-wp-widget-maxmegamenu" data-id="11ad99a" data-element_type="widget" data-widget_type="wp-widget-maxmegamenu.default">
+				<div class="elementor-widget-container">
+			<div id="mega-menu-wrap-max_mega_menu_1" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class="mega-toggle-block mega-menu-toggle-block mega-toggle-block-1" id="mega-toggle-block-1" tabindex="0"><span class="mega-toggle-label" role="button" aria-expanded="false"><span class="mega-toggle-label-closed"></span><span class="mega-toggle-label-open"></span></span></div></div></div><ul id="mega-menu-max_mega_menu_1" class="mega-menu max-mega-menu mega-menu-horizontal" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-panel-width="body" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true"><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-megamenu mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-2026" id="mega-menu-item-2026"><a class="mega-menu-link" href="#_" aria-haspopup="true" aria-expanded="false" tabindex="0">Sophos<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu" style="width: 1903px; left: -651.75px;">
+<li class="mega-menu-item mega-menu-item-type-widget widget_elementor-library mega-menu-columns-8-of-8 mega-menu-item-elementor-library-10" id="mega-menu-item-elementor-library-10">		<div data-elementor-type="section" data-elementor-id="2218" class="elementor elementor-2218 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-3136f01 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3136f01" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-60e6607" data-id="60e6607" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-928247f elementor-widget elementor-widget-template" data-id="928247f" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1958" class="elementor elementor-1958 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-7857e673 elementor-section-content-top elementor-section-height-min-height elementor-section-items-top elementor-section-boxed elementor-section-height-default" data-id="7857e673" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-25550da8" data-id="25550da8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-23425e5 elementor-widget elementor-widget-text-editor" data-id="23425e5" data-element_type="widget" id="container_items_sophos" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4 style="text-align: left;" data-info="item_sophos_sophos"><a href="https://www.sophossolutions.com/sophos/">Sophos</a></h4><h4 style="text-align: left;" data-info="item_sophos_industria"><a href="https://www.sophossolutions.com/industria/">Industria</a></h4></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5fb2f2b" data-id="5fb2f2b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3e0db98 elementor-widget elementor-widget-template" data-id="3e0db98" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1961" class="elementor elementor-1961 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-623322c elementor-section-content-middle elementor-section-height-min-height item_menu_sophos item_menu_sophos_on menu_responsive elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="623322c" data-element_type="section" id="item_sophos_sophos">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9ebed75" data-id="9ebed75" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3e89eb8 elementor-widget elementor-widget-text-editor" data-id="3e89eb8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">SOPHOS es una multinacional colombiana creada por inversionistas y visionarios de la India, que ofrece servicios de Consultoría, Implementación de Core Bancario, Fábrica de Pruebas y Fábrica de Software principalmente para compañías del sector financiero y bursátil</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-769c5da elementor-widget elementor-widget-text-editor" data-id="769c5da" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/sophos/">Ir a sophos</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c7fd471" data-id="c7fd471" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-85d1826 elementor-widget elementor-widget-image" data-id="85d1826" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="193" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-10-300x193.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-10-300x193.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-10-768x495.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-10.png 1010w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="2256638883" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-16ad2059 elementor-section-content-middle elementor-section-height-min-height item_menu_sophos menu_responsive elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="16ad2059" data-element_type="section" id="item_sophos_industria">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-782287eb" data-id="782287eb" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-10466817 elementor-widget elementor-widget-text-editor" data-id="10466817" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Sophos Solutions cuenta con una amplia gama de servicios y soluciones enfocados en el sector Bancario, tales como implementación de sistemas tipo Core (Bancario, Tesorería, Tarjeta de Crédito), consultoría, personalización y/o localización de soluciones, migración de datos, reportes legales, desarrollos de software a la medida y amplio conocimiento de las principales soluciones de talla mundial</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-698b64be elementor-widget elementor-widget-text-editor" data-id="698b64be" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/industria/">Ir a industria</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1f3e0a78" data-id="1f3e0a78" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-60e4dfb6 elementor-widget elementor-widget-image" data-id="60e4dfb6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="208" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-09-300x208.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-09-300x208.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-09-768x533.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-09.png 811w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="3975025452" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-megamenu mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-1372" id="mega-menu-item-1372"><a class="mega-menu-link" href="#_" aria-haspopup="true" aria-expanded="false" tabindex="0">Servicios y Productos<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu" style="width: 1903px; left: -651.75px;">
+<li class="mega-menu-item mega-menu-item-type-widget widget_elementor-library mega-menu-columns-8-of-8 mega-menu-item-elementor-library-11" id="mega-menu-item-elementor-library-11">		<div data-elementor-type="section" data-elementor-id="2222" class="elementor elementor-2222 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-4776447c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4776447c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5bbb99ed" data-id="5bbb99ed" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a73b7a9 elementor-widget elementor-widget-template" data-id="a73b7a9" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1882" class="elementor elementor-1882 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-43b7b00b elementor-section-content-top elementor-section-height-min-height elementor-section-items-top elementor-section-boxed elementor-section-height-default" data-id="43b7b00b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37cc1254" data-id="37cc1254" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6d371eaa elementor-widget elementor-widget-text-editor" data-id="6d371eaa" data-element_type="widget" id="container_items_services" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4 style="text-align: left;" data-info="item_transformacion_digital"><a href="https://www.sophossolutions.com/transformacion-digital/">Transformación Digital</a></h4>
+<h4 style="text-align: left;" data-info="item_servicios_bancarios"><a href="https://www.sophossolutions.com/core-bancario/">Core Bancario</a></h4>
+<h4 style="text-align: left;" data-info="item_fabrica_software"><a href="https://www.sophossolutions.com/fabrica-de-software/">Fábrica de Software</a></h4>
+<h4 style="text-align: left;" data-info="item_servicios_cloud"><a href="https://www.sophossolutions.com/servicios-cloud/">Servicios Cloud</a></h4>
+<h4 style="text-align: left;" data-info="item_fabrica_pruebas"><a href="https://www.sophossolutions.com/fabrica-de-pruebas/">Fábrica de Pruebas</a></h4>
+<h4 style="text-align: left;" data-info="item_personal_especializado"><a href="https://www.sophossolutions.com/personal-especializado/">Personal Especializado</a></h4>
+<h4 style="text-align: left;" data-info="item_herramientas_productos"><a href="https://www.sophossolutions.com/wp-content/uploads/2019/12/Brochure-herramientas-actualizado.pdf" target="_blank" rel="noopener">Herramientas y Productos</a></h4>
+<h4 style="text-align: left;" data-info="item_soluciones_afc"><a href="https://www.sophossolutions.com/wp-content/uploads/2019/12/Brochure-AFC-actualizado.pdf" target="_blank" rel="noopener">Soluciones AFC</a></h4></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-623a227" data-id="623a227" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4772f1b2 elementor-widget elementor-widget-template" data-id="4772f1b2" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1866" class="elementor elementor-1866 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-edf7540 elementor-section-content-middle elementor-section-height-min-height item_menu_services item_menu_services_on menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="edf7540" data-element_type="section" id="item_transformacion_digital">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-15bf36c" data-id="15bf36c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7268971 elementor-widget elementor-widget-text-editor" data-id="7268971" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">La Transformación Digital es un proceso que comienza con las personas y la cultura de una organización, seguido a esto se definen los nuevos modelos de negocio y se trabaja en lograr un cambio en la experiencia del cliente, lo que nos hace ser diferentes y sostenibles en el tiempo</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2daf769 elementor-widget elementor-widget-text-editor" data-id="2daf769" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/transformacion-digital/">Ir a transformación digital</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a38bd7f" data-id="a38bd7f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-929e743 elementor-widget elementor-widget-image" data-id="929e743" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-768x530.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="452321245" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-569fb09 elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="569fb09" data-element_type="section" id="item_servicios_bancarios">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-649b5031" data-id="649b5031" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4a78eab7 elementor-widget elementor-widget-text-editor" data-id="4a78eab7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Teniendo en cuenta la calidad de nuestros consultores y la experiencia en el sector Bancario, ofrecemos servicios de Administración de Proyectos, Servicios de Implementación, Servicios Técnicos, Servicios de Soporte, Servicios de Desarrollo, Servicios de Pruebas y Personalización de Productos bancarios tipo World Class</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-05fde74 elementor-widget elementor-widget-text-editor" data-id="05fde74" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/core-bancario/">Ir a core bancario</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-122d9c0" data-id="122d9c0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-399b0c4 elementor-widget elementor-widget-image" data-id="399b0c4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/Captura-de-Pantalla-2019-10-11-a-las-13.32.34-03-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/Captura-de-Pantalla-2019-10-11-a-las-13.32.34-03-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/Captura-de-Pantalla-2019-10-11-a-las-13.32.34-03-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/Captura-de-Pantalla-2019-10-11-a-las-13.32.34-03.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="3799719624" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c87db0d elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="c87db0d" data-element_type="section" id="item_fabrica_software">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-489fd5e" data-id="489fd5e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-135c072 elementor-widget elementor-widget-text-editor" data-id="135c072" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Mantenimiento, Construcción e implementación de soluciones de software aplicando metodologías ágiles y tradicionales, aprovechando tecnologías de última generación y capacidades en la nube, buscando la mejor relación de costo-beneficio para nuestros clientes</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a9434be elementor-widget elementor-widget-text-editor" data-id="a9434be" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/fabrica-de-software/">Ir a fábrica de software</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5b1b17c" data-id="5b1b17c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-cffc727 elementor-widget elementor-widget-image" data-id="cffc727" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-768x530.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="452321245" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6a18f13 elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="6a18f13" data-element_type="section" id="item_fabrica_pruebas">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5579d8e" data-id="5579d8e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a970d32 elementor-widget elementor-widget-text-editor" data-id="a970d32" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Sophos ofrece un servicio especializado de pruebas enfocado directamente en el Core de su negocio, apoyado por medio de estrategias y metodologías maduras que nos permiten garantizar el éxito y la calidad de los proyectos</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3153a59 elementor-widget elementor-widget-text-editor" data-id="3153a59" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/fabrica-de-pruebas/">Ir a fábrica de pruebas</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6a1c11e" data-id="6a1c11e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4834102 elementor-widget elementor-widget-image" data-id="4834102" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-10-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-10-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-10-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-10.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="704537256" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ed5dcfd elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="ed5dcfd" data-element_type="section" id="item_personal_especializado">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f973c0" data-id="6f973c0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dc8cb6b elementor-widget elementor-widget-text-editor" data-id="dc8cb6b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Reduzca los costos de su operación por medio de un servicio especializado de Outsourcing brindado por expertos en las diferentes tecnologías del mercado. Sophos Solutions cuenta metodologías de punta que garantizan las labores de nuestros equipos de trabajo en modalidad de Outsourcing ya sea en instalaciones de nuestros clientes o fuera de sus oficinas</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c60822e elementor-widget elementor-widget-text-editor" data-id="c60822e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/personal-especializado/">Ir a personal especializado</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f051a1d" data-id="f051a1d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5c392ed elementor-widget elementor-widget-image" data-id="5c392ed" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="1536843214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d355501 elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="d355501" data-element_type="section" id="item_herramientas_productos">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6e0b1fc" data-id="6e0b1fc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c02102f elementor-widget elementor-widget-text-editor" data-id="c02102f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Soluciones creadas como aceleradores en la administración y optimización de procesos de Core Bancario, Desarrollo de Software y Testing</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b56a4c3 elementor-widget elementor-widget-text-editor" data-id="b56a4c3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/personal-especializado/">Ir a herramientas y productos</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d844395" data-id="d844395" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-378b3cb elementor-widget elementor-widget-image" data-id="378b3cb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="1536843214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-35ce38a elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="35ce38a" data-element_type="section" id="item_soluciones_afc">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-39daac9" data-id="39daac9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-75ac6cf elementor-widget elementor-widget-text-editor" data-id="75ac6cf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Módulo aplicativo desarrollado bajo la normatividad colombiana que permite la solución al Core Bancario y la administración en la operación de cuentas de ahorro para el fomento de la construcción</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2dc132c elementor-widget elementor-widget-text-editor" data-id="2dc132c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/wp-content/uploads/2019/12/Brochure-AFC-actualizado.pdf">Ir a soluciones AFC</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-eb547d6" data-id="eb547d6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-24a9cdc elementor-widget elementor-widget-image" data-id="24a9cdc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="1536843214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5bf6a63 elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="5bf6a63" data-element_type="section" id="item_servicios_cloud">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9c3bc2e" data-id="9c3bc2e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-724e256 elementor-widget elementor-widget-text-editor" data-id="724e256" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>El viaje hacia la nube será más fácil al lado de un aliado que cuente con experiencias importantes en la transformación, migración y desarrollo de aplicaciones Cloud Native. Somos Partners nivel Select de AWS y miembros de Microsoft Partner Network</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2780879 elementor-widget elementor-widget-text-editor" data-id="2780879" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/servicios-cloud/">Ir a servicios Cloud</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4c86e83" data-id="4c86e83" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5578bc7 elementor-widget elementor-widget-image" data-id="5578bc7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="1536843214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-23" id="mega-menu-item-23"><a class="mega-menu-link" href="https://www.sophossolutions.com/transformacion-digital/" tabindex="0">Transformación Digital</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-megamenu mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-1458" id="mega-menu-item-1458"><a class="mega-menu-link" href="#_" aria-haspopup="true" aria-expanded="false" tabindex="0">Casos de Éxito<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu" style="width: 1903px; left: -651.75px;">
+<li class="mega-menu-item mega-menu-item-type-widget widget_elementor-library mega-menu-columns-8-of-8 mega-menu-item-elementor-library-7" id="mega-menu-item-elementor-library-7">		<div data-elementor-type="section" data-elementor-id="2226" class="elementor elementor-2226 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-60008b60 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60008b60" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5370e467" data-id="5370e467" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-30623427 elementor-widget elementor-widget-template" data-id="30623427" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1970" class="elementor elementor-1970 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-3f6210f5 elementor-section-content-top elementor-section-height-min-height elementor-section-items-top elementor-section-boxed elementor-section-height-default" data-id="3f6210f5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-338a424b" data-id="338a424b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6cc5016a elementor-widget elementor-widget-text-editor" data-id="6cc5016a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4 style="text-align: left;" data-info="item_servicios_bancarios"><a href="https://www.sophossolutions.com/que-es-cas/">Partners</a></h4></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-566b6ac2" data-id="566b6ac2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-24b097a9 elementor-widget elementor-widget-template" data-id="24b097a9" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1973" class="elementor elementor-1973 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-7aeda24e elementor-section-content-middle elementor-section-height-min-height menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="7aeda24e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-61236be8" data-id="61236be8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fd964f0 elementor-widget elementor-widget-text-editor" data-id="fd964f0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ol><li><a href="https://www.sophossolutions.com/cas/">AWS – CAS</a></li><li><a href="https://www.sophossolutions.com/a2censo/">AWS – A2censo</a></li><li>Oracle</li><li>Bizagi</li><li>Finastra</li><li>Calypso</li><li>Liferay</li><li>Lumina</li><li>Murex</li></ol></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1ecdbfc7" data-id="1ecdbfc7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-29bf4ce3 elementor-widget elementor-widget-image" data-id="29bf4ce3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/IMGAWS-14-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/IMGAWS-14-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/IMGAWS-14-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/IMGAWS-14.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="2642221630" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1541" id="mega-menu-item-1541"><a class="mega-menu-link" href="https://www.sophossolutions.com/trabaja-con-nosotros/" tabindex="0">Trabaja Con Nosotros</a></li><li class="mega-menu-item mega-wpml-ls-slot-3 mega-wpml-ls-item mega-wpml-ls-item-es mega-wpml-ls-current-language mega-wpml-ls-menu-item mega-wpml-ls-first-item mega-menu-item-type-wpml_ls_menu_item mega-menu-item-object-wpml_ls_menu_item mega-menu-item-has-children mega-menu-flyout mega-menu-item-wpml-ls-3-es" id="mega-menu-item-wpml-ls-3-es"><a title="Español" class="mega-menu-link" href="https://www.sophossolutions.com/?s=java" aria-haspopup="true" aria-expanded="false" tabindex="0"><img class="wpml-ls-flag" src="data:image/webp;base64,UklGRswAAABXRUJQVlA4TL8AAAAvEcACABfBqLZtJecbOrcElKExPSjgLiOXGmwj2WpzmNxDLUT0XwMVyJvMS2wjSWo0CIsItAaT/BP6AN7W8x/85McvAAIIoIDwcDEz+MACPrCAD0xgQF4RZDja2s3vQNiYZj5xdyv0ITtPP782vtr26F7N2Y20bMm7+EtSHx0YRpJs6p7NbyP/LP1/BBH9nwD4I3pB4SMh+DrFA+16+qQdt+aBWOZ9fYCrYaof8FyUmd2Ax9oBgLytrQekzG3nAwA=" alt="" data-pagespeed-url-hash="2916440059" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"><span class="wpml-ls-display">Español</span><span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-wpml-ls-slot-3 mega-wpml-ls-item mega-wpml-ls-item-en mega-wpml-ls-menu-item mega-wpml-ls-last-item mega-menu-item-type-wpml_ls_menu_item mega-menu-item-object-wpml_ls_menu_item mega-menu-flyout mega-menu-item-wpml-ls-3-en" id="mega-menu-item-wpml-ls-3-en"><a title="Inglés" class="mega-menu-link" href="https://www.sophossolutions.com/en/?s=java"><img class="wpml-ls-flag" src="data:image/webp;base64,UklGRogBAABXRUJQVlA4THwBAAAvEcACAD/CKrZtJecZ7nx5DcpTgQpEcLf7aritbVuJLu7uELKogxaoja6IidxmJnJ3cRvbtlLdh7u7Z+TUQsvaAzGZu3yZ/8Af4g808ffj68cX4YduDHeNoAXYg5hWMRPR8Z8iSCLEMSD1I0KXn3f9qtmI5TCUSpIrgR9JPOCiQsHIVEkezv7Ui8ArMcOOtF9ny4l1PVbHb/c8d1bSUdlhTXstwQIYAANIAAhAA2hZsFKMa7820rxg96zGylGVMT84LTKsLyEL/lLLZ/ECR+wkpskw/sRD4IjA5BZ/fCL8dKeHLbUURVIzyeAwku20SWSHmZlRkjHMDP3XZCzhv4j+q23bhommdN3RZHFLB84Fgg5Y7eL3s3izg0anPJ002jZq6sXY16vK1TzmQGav9GMjoWsugUcON5eS4Cz2cpEFufh3ItFEAMlUmAiT6Jp5Var1Ww4P9iv1TMHlzhFwH3KUpsu7WplPBA0yGBCNn63V7Fve2BwYpgkcsPvdNQ==" alt="" data-pagespeed-url-hash="1443940454" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"><span class="wpml-ls-display">Inglés</span></a></li></ul>
+</li></ul></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</header><header class="elementor-section elementor-top-section elementor-element elementor-element-63b1fa72 elementor-section-content-middle elementor-section-height-min-height animate_menu menu_home elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-sticky elementor-sticky__spacer" data-id="63b1fa72" data-element_type="section" id="header_menu_principal" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;animation_mobile&quot;:&quot;fadeInDown&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" style="visibility: hidden; transition: none 0s ease 0s; animation: 0s ease 0s 1 normal none running none;">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-28c315f1" data-id="28c315f1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-c9058c0 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c9058c0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-121925d" data-id="121925d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5c418e8 elementor-widget elementor-widget-image" data-id="5c418e8" data-element_type="widget" id="logo_header" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.sophossolutions.com">
+							<script data-pagespeed-no-defer="">//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','http://www.sophossolutions.com/?s=java','8Xxa2XQLv9',true,false,'0UPPnwG1u9U');
+//]]></script><img width="300" height="64" src="https://www.sophossolutions.com/wp-content/uploads/2020/11/web_logo_Sophos_Color-300x64.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2020/11/web_logo_Sophos_Color-300x64.png 300w, https://www.sophossolutions.com/wp-content/uploads/2020/11/web_logo_Sophos_Color.png 481w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="3838005893" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-14bc539" data-id="14bc539" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-11ad99a elementor-widget elementor-widget-wp-widget-maxmegamenu" data-id="11ad99a" data-element_type="widget" data-widget_type="wp-widget-maxmegamenu.default">
+				<div class="elementor-widget-container">
+			<div id="mega-menu-wrap-max_mega_menu_1" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class="mega-toggle-block mega-menu-toggle-block mega-toggle-block-1" id="mega-toggle-block-1" tabindex="0"><span class="mega-toggle-label" role="button" aria-expanded="false"><span class="mega-toggle-label-closed"></span><span class="mega-toggle-label-open"></span></span></div></div></div><ul id="mega-menu-max_mega_menu_1" class="mega-menu max-mega-menu mega-menu-horizontal" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-panel-width="body" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true"><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-megamenu mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-2026" id="mega-menu-item-2026"><a class="mega-menu-link" href="#_" aria-haspopup="true" aria-expanded="false" tabindex="0">Sophos<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu" style="width: 1903px; left: -651.75px;">
+<li class="mega-menu-item mega-menu-item-type-widget widget_elementor-library mega-menu-columns-8-of-8 mega-menu-item-elementor-library-10" id="mega-menu-item-elementor-library-10">		<div data-elementor-type="section" data-elementor-id="2218" class="elementor elementor-2218 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-3136f01 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3136f01" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-60e6607" data-id="60e6607" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-928247f elementor-widget elementor-widget-template" data-id="928247f" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1958" class="elementor elementor-1958 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-7857e673 elementor-section-content-top elementor-section-height-min-height elementor-section-items-top elementor-section-boxed elementor-section-height-default" data-id="7857e673" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-25550da8" data-id="25550da8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-23425e5 elementor-widget elementor-widget-text-editor" data-id="23425e5" data-element_type="widget" id="container_items_sophos" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4 style="text-align: left;" data-info="item_sophos_sophos"><a href="https://www.sophossolutions.com/sophos/">Sophos</a></h4><h4 style="text-align: left;" data-info="item_sophos_industria"><a href="https://www.sophossolutions.com/industria/">Industria</a></h4></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5fb2f2b" data-id="5fb2f2b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3e0db98 elementor-widget elementor-widget-template" data-id="3e0db98" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1961" class="elementor elementor-1961 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-623322c elementor-section-content-middle elementor-section-height-min-height item_menu_sophos item_menu_sophos_on menu_responsive elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="623322c" data-element_type="section" id="item_sophos_sophos">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9ebed75" data-id="9ebed75" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3e89eb8 elementor-widget elementor-widget-text-editor" data-id="3e89eb8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">SOPHOS es una multinacional colombiana creada por inversionistas y visionarios de la India, que ofrece servicios de Consultoría, Implementación de Core Bancario, Fábrica de Pruebas y Fábrica de Software principalmente para compañías del sector financiero y bursátil</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-769c5da elementor-widget elementor-widget-text-editor" data-id="769c5da" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/sophos/">Ir a sophos</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c7fd471" data-id="c7fd471" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-85d1826 elementor-widget elementor-widget-image" data-id="85d1826" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="193" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-10-300x193.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-10-300x193.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-10-768x495.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-10.png 1010w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="2256638883" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-16ad2059 elementor-section-content-middle elementor-section-height-min-height item_menu_sophos menu_responsive elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="16ad2059" data-element_type="section" id="item_sophos_industria">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-782287eb" data-id="782287eb" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-10466817 elementor-widget elementor-widget-text-editor" data-id="10466817" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Sophos Solutions cuenta con una amplia gama de servicios y soluciones enfocados en el sector Bancario, tales como implementación de sistemas tipo Core (Bancario, Tesorería, Tarjeta de Crédito), consultoría, personalización y/o localización de soluciones, migración de datos, reportes legales, desarrollos de software a la medida y amplio conocimiento de las principales soluciones de talla mundial</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-698b64be elementor-widget elementor-widget-text-editor" data-id="698b64be" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/industria/">Ir a industria</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1f3e0a78" data-id="1f3e0a78" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-60e4dfb6 elementor-widget elementor-widget-image" data-id="60e4dfb6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="208" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-09-300x208.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-09-300x208.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-09-768x533.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/imagen_industria-09.png 811w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="3975025452" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-megamenu mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-1372" id="mega-menu-item-1372"><a class="mega-menu-link" href="#_" aria-haspopup="true" aria-expanded="false" tabindex="0">Servicios y Productos<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu" style="width: 1903px; left: -651.75px;">
+<li class="mega-menu-item mega-menu-item-type-widget widget_elementor-library mega-menu-columns-8-of-8 mega-menu-item-elementor-library-11" id="mega-menu-item-elementor-library-11">		<div data-elementor-type="section" data-elementor-id="2222" class="elementor elementor-2222 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-4776447c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4776447c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5bbb99ed" data-id="5bbb99ed" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a73b7a9 elementor-widget elementor-widget-template" data-id="a73b7a9" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1882" class="elementor elementor-1882 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-43b7b00b elementor-section-content-top elementor-section-height-min-height elementor-section-items-top elementor-section-boxed elementor-section-height-default" data-id="43b7b00b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37cc1254" data-id="37cc1254" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6d371eaa elementor-widget elementor-widget-text-editor" data-id="6d371eaa" data-element_type="widget" id="container_items_services" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4 style="text-align: left;" data-info="item_transformacion_digital"><a href="https://www.sophossolutions.com/transformacion-digital/">Transformación Digital</a></h4>
+<h4 style="text-align: left;" data-info="item_servicios_bancarios"><a href="https://www.sophossolutions.com/core-bancario/">Core Bancario</a></h4>
+<h4 style="text-align: left;" data-info="item_fabrica_software"><a href="https://www.sophossolutions.com/fabrica-de-software/">Fábrica de Software</a></h4>
+<h4 style="text-align: left;" data-info="item_servicios_cloud"><a href="https://www.sophossolutions.com/servicios-cloud/">Servicios Cloud</a></h4>
+<h4 style="text-align: left;" data-info="item_fabrica_pruebas"><a href="https://www.sophossolutions.com/fabrica-de-pruebas/">Fábrica de Pruebas</a></h4>
+<h4 style="text-align: left;" data-info="item_personal_especializado"><a href="https://www.sophossolutions.com/personal-especializado/">Personal Especializado</a></h4>
+<h4 style="text-align: left;" data-info="item_herramientas_productos"><a href="https://www.sophossolutions.com/wp-content/uploads/2019/12/Brochure-herramientas-actualizado.pdf" target="_blank" rel="noopener">Herramientas y Productos</a></h4>
+<h4 style="text-align: left;" data-info="item_soluciones_afc"><a href="https://www.sophossolutions.com/wp-content/uploads/2019/12/Brochure-AFC-actualizado.pdf" target="_blank" rel="noopener">Soluciones AFC</a></h4></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-623a227" data-id="623a227" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4772f1b2 elementor-widget elementor-widget-template" data-id="4772f1b2" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1866" class="elementor elementor-1866 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-edf7540 elementor-section-content-middle elementor-section-height-min-height item_menu_services item_menu_services_on menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="edf7540" data-element_type="section" id="item_transformacion_digital">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-15bf36c" data-id="15bf36c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7268971 elementor-widget elementor-widget-text-editor" data-id="7268971" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">La Transformación Digital es un proceso que comienza con las personas y la cultura de una organización, seguido a esto se definen los nuevos modelos de negocio y se trabaja en lograr un cambio en la experiencia del cliente, lo que nos hace ser diferentes y sostenibles en el tiempo</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2daf769 elementor-widget elementor-widget-text-editor" data-id="2daf769" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/transformacion-digital/">Ir a transformación digital</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a38bd7f" data-id="a38bd7f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-929e743 elementor-widget elementor-widget-image" data-id="929e743" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-768x530.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="452321245" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-569fb09 elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="569fb09" data-element_type="section" id="item_servicios_bancarios">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-649b5031" data-id="649b5031" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4a78eab7 elementor-widget elementor-widget-text-editor" data-id="4a78eab7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Teniendo en cuenta la calidad de nuestros consultores y la experiencia en el sector Bancario, ofrecemos servicios de Administración de Proyectos, Servicios de Implementación, Servicios Técnicos, Servicios de Soporte, Servicios de Desarrollo, Servicios de Pruebas y Personalización de Productos bancarios tipo World Class</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-05fde74 elementor-widget elementor-widget-text-editor" data-id="05fde74" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/core-bancario/">Ir a core bancario</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-122d9c0" data-id="122d9c0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-399b0c4 elementor-widget elementor-widget-image" data-id="399b0c4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/Captura-de-Pantalla-2019-10-11-a-las-13.32.34-03-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/Captura-de-Pantalla-2019-10-11-a-las-13.32.34-03-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/Captura-de-Pantalla-2019-10-11-a-las-13.32.34-03-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/Captura-de-Pantalla-2019-10-11-a-las-13.32.34-03.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="3799719624" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c87db0d elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="c87db0d" data-element_type="section" id="item_fabrica_software">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-489fd5e" data-id="489fd5e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-135c072 elementor-widget elementor-widget-text-editor" data-id="135c072" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Mantenimiento, Construcción e implementación de soluciones de software aplicando metodologías ágiles y tradicionales, aprovechando tecnologías de última generación y capacidades en la nube, buscando la mejor relación de costo-beneficio para nuestros clientes</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a9434be elementor-widget elementor-widget-text-editor" data-id="a9434be" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/fabrica-de-software/">Ir a fábrica de software</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5b1b17c" data-id="5b1b17c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-cffc727 elementor-widget elementor-widget-image" data-id="cffc727" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08-768x530.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-08.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="452321245" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6a18f13 elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="6a18f13" data-element_type="section" id="item_fabrica_pruebas">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5579d8e" data-id="5579d8e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a970d32 elementor-widget elementor-widget-text-editor" data-id="a970d32" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Sophos ofrece un servicio especializado de pruebas enfocado directamente en el Core de su negocio, apoyado por medio de estrategias y metodologías maduras que nos permiten garantizar el éxito y la calidad de los proyectos</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3153a59 elementor-widget elementor-widget-text-editor" data-id="3153a59" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/fabrica-de-pruebas/">Ir a fábrica de pruebas</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6a1c11e" data-id="6a1c11e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4834102 elementor-widget elementor-widget-image" data-id="4834102" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-10-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-10-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-10-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-10.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="704537256" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ed5dcfd elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="ed5dcfd" data-element_type="section" id="item_personal_especializado">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f973c0" data-id="6f973c0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dc8cb6b elementor-widget elementor-widget-text-editor" data-id="dc8cb6b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Reduzca los costos de su operación por medio de un servicio especializado de Outsourcing brindado por expertos en las diferentes tecnologías del mercado. Sophos Solutions cuenta metodologías de punta que garantizan las labores de nuestros equipos de trabajo en modalidad de Outsourcing ya sea en instalaciones de nuestros clientes o fuera de sus oficinas</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c60822e elementor-widget elementor-widget-text-editor" data-id="c60822e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/personal-especializado/">Ir a personal especializado</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f051a1d" data-id="f051a1d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5c392ed elementor-widget elementor-widget-image" data-id="5c392ed" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="1536843214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d355501 elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="d355501" data-element_type="section" id="item_herramientas_productos">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6e0b1fc" data-id="6e0b1fc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c02102f elementor-widget elementor-widget-text-editor" data-id="c02102f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align: left;">Soluciones creadas como aceleradores en la administración y optimización de procesos de Core Bancario, Desarrollo de Software y Testing</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b56a4c3 elementor-widget elementor-widget-text-editor" data-id="b56a4c3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/personal-especializado/">Ir a herramientas y productos</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d844395" data-id="d844395" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-378b3cb elementor-widget elementor-widget-image" data-id="378b3cb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="1536843214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-35ce38a elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="35ce38a" data-element_type="section" id="item_soluciones_afc">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-39daac9" data-id="39daac9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-75ac6cf elementor-widget elementor-widget-text-editor" data-id="75ac6cf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Módulo aplicativo desarrollado bajo la normatividad colombiana que permite la solución al Core Bancario y la administración en la operación de cuentas de ahorro para el fomento de la construcción</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2dc132c elementor-widget elementor-widget-text-editor" data-id="2dc132c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/wp-content/uploads/2019/12/Brochure-AFC-actualizado.pdf">Ir a soluciones AFC</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-eb547d6" data-id="eb547d6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-24a9cdc elementor-widget elementor-widget-image" data-id="24a9cdc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="1536843214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5bf6a63 elementor-section-content-middle elementor-section-height-min-height item_menu_services menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="5bf6a63" data-element_type="section" id="item_servicios_cloud">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9c3bc2e" data-id="9c3bc2e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-724e256 elementor-widget elementor-widget-text-editor" data-id="724e256" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>El viaje hacia la nube será más fácil al lado de un aliado que cuente con experiencias importantes en la transformación, migración y desarrollo de aplicaciones Cloud Native. Somos Partners nivel Select de AWS y miembros de Microsoft Partner Network</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2780879 elementor-widget elementor-widget-text-editor" data-id="2780879" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h6 style="text-align: left;"><a href="https://www.sophossolutions.com/servicios-cloud/">Ir a servicios Cloud</a></h6></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4c86e83" data-id="4c86e83" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5578bc7 elementor-widget elementor-widget-image" data-id="5578bc7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/banner-09.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="1536843214" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-23" id="mega-menu-item-23"><a class="mega-menu-link" href="https://www.sophossolutions.com/transformacion-digital/" tabindex="0">Transformación Digital</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-megamenu mega-menu-item-has-children mega-align-bottom-left mega-menu-megamenu mega-menu-item-1458" id="mega-menu-item-1458"><a class="mega-menu-link" href="#_" aria-haspopup="true" aria-expanded="false" tabindex="0">Casos de Éxito<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu" style="width: 1903px; left: -651.75px;">
+<li class="mega-menu-item mega-menu-item-type-widget widget_elementor-library mega-menu-columns-8-of-8 mega-menu-item-elementor-library-7" id="mega-menu-item-elementor-library-7">		<div data-elementor-type="section" data-elementor-id="2226" class="elementor elementor-2226 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-60008b60 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60008b60" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5370e467" data-id="5370e467" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-30623427 elementor-widget elementor-widget-template" data-id="30623427" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1970" class="elementor elementor-1970 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-3f6210f5 elementor-section-content-top elementor-section-height-min-height elementor-section-items-top elementor-section-boxed elementor-section-height-default" data-id="3f6210f5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-338a424b" data-id="338a424b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6cc5016a elementor-widget elementor-widget-text-editor" data-id="6cc5016a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><h4 style="text-align: left;" data-info="item_servicios_bancarios"><a href="https://www.sophossolutions.com/que-es-cas/">Partners</a></h4></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-566b6ac2" data-id="566b6ac2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-24b097a9 elementor-widget elementor-widget-template" data-id="24b097a9" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1973" class="elementor elementor-1973 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-7aeda24e elementor-section-content-middle elementor-section-height-min-height menu_responsive elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="7aeda24e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-61236be8" data-id="61236be8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fd964f0 elementor-widget elementor-widget-text-editor" data-id="fd964f0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ol><li><a href="https://www.sophossolutions.com/cas/">AWS – CAS</a></li><li><a href="https://www.sophossolutions.com/a2censo/">AWS – A2censo</a></li><li>Oracle</li><li>Bizagi</li><li>Finastra</li><li>Calypso</li><li>Liferay</li><li>Lumina</li><li>Murex</li></ol></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1ecdbfc7" data-id="1ecdbfc7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-29bf4ce3 elementor-widget elementor-widget-image" data-id="29bf4ce3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="207" src="https://www.sophossolutions.com/wp-content/uploads/2019/10/IMGAWS-14-300x207.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/10/IMGAWS-14-300x207.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/10/IMGAWS-14-768x531.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/10/IMGAWS-14.png 797w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="2642221630" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-1541" id="mega-menu-item-1541"><a class="mega-menu-link" href="https://www.sophossolutions.com/trabaja-con-nosotros/" tabindex="0">Trabaja Con Nosotros</a></li><li class="mega-menu-item mega-wpml-ls-slot-3 mega-wpml-ls-item mega-wpml-ls-item-es mega-wpml-ls-current-language mega-wpml-ls-menu-item mega-wpml-ls-first-item mega-menu-item-type-wpml_ls_menu_item mega-menu-item-object-wpml_ls_menu_item mega-menu-item-has-children mega-menu-flyout mega-menu-item-wpml-ls-3-es" id="mega-menu-item-wpml-ls-3-es"><a title="Español" class="mega-menu-link" href="https://www.sophossolutions.com/?s=java" aria-haspopup="true" aria-expanded="false" tabindex="0"><img class="wpml-ls-flag" src="data:image/webp;base64,UklGRswAAABXRUJQVlA4TL8AAAAvEcACABfBqLZtJecbOrcElKExPSjgLiOXGmwj2WpzmNxDLUT0XwMVyJvMS2wjSWo0CIsItAaT/BP6AN7W8x/85McvAAIIoIDwcDEz+MACPrCAD0xgQF4RZDja2s3vQNiYZj5xdyv0ITtPP782vtr26F7N2Y20bMm7+EtSHx0YRpJs6p7NbyP/LP1/BBH9nwD4I3pB4SMh+DrFA+16+qQdt+aBWOZ9fYCrYaof8FyUmd2Ax9oBgLytrQekzG3nAwA=" alt="" data-pagespeed-url-hash="2916440059" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"><span class="wpml-ls-display">Español</span><span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-wpml-ls-slot-3 mega-wpml-ls-item mega-wpml-ls-item-en mega-wpml-ls-menu-item mega-wpml-ls-last-item mega-menu-item-type-wpml_ls_menu_item mega-menu-item-object-wpml_ls_menu_item mega-menu-flyout mega-menu-item-wpml-ls-3-en" id="mega-menu-item-wpml-ls-3-en"><a title="Inglés" class="mega-menu-link" href="https://www.sophossolutions.com/en/?s=java"><img class="wpml-ls-flag" src="data:image/webp;base64,UklGRogBAABXRUJQVlA4THwBAAAvEcACAD/CKrZtJecZ7nx5DcpTgQpEcLf7aritbVuJLu7uELKogxaoja6IidxmJnJ3cRvbtlLdh7u7Z+TUQsvaAzGZu3yZ/8Af4g808ffj68cX4YduDHeNoAXYg5hWMRPR8Z8iSCLEMSD1I0KXn3f9qtmI5TCUSpIrgR9JPOCiQsHIVEkezv7Ui8ArMcOOtF9ny4l1PVbHb/c8d1bSUdlhTXstwQIYAANIAAhAA2hZsFKMa7820rxg96zGylGVMT84LTKsLyEL/lLLZ/ECR+wkpskw/sRD4IjA5BZ/fCL8dKeHLbUURVIzyeAwku20SWSHmZlRkjHMDP3XZCzhv4j+q23bhommdN3RZHFLB84Fgg5Y7eL3s3izg0anPJ002jZq6sXY16vK1TzmQGav9GMjoWsugUcON5eS4Cz2cpEFufh3ItFEAMlUmAiT6Jp5Var1Ww4P9iv1TMHlzhFwH3KUpsu7WplPBA0yGBCNn63V7Fve2BwYpgkcsPvdNQ==" alt="" data-pagespeed-url-hash="1443940454" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"><span class="wpml-ls-display">Inglés</span></a></li></ul>
+</li></ul></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</header>
+				</div>
+		</div>
+		
+</header><!-- #site-header -->
+
+
+						
+			<main id="main" class="site-main clr">
+
+						<div data-elementor-type="archive" data-elementor-id="837" class="elementor elementor-837 elementor-location-archive" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-7661dc4b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7661dc4b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-52289f72" data-id="52289f72" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b283b02 elementor-widget elementor-widget-heading" data-id="b283b02" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">Resultados Búsqueda Ofertas</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-68aeb9e elementor-widget elementor-widget-wp-widget-search" data-id="68aeb9e" data-element_type="widget" data-widget_type="wp-widget-search.default">
+				<div class="elementor-widget-container">
+			
+<form method="get" class="searchform" id="searchform" action="https://www.sophossolutions.com/">
+	<input type="text" class="field" name="s" id="s" placeholder="Buscar">
+	</form>		</div>
+				</div>
+				<div class="elementor-element elementor-element-53e40889 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="53e40889" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9006258 elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-archive-posts" data-id="9006258" data-element_type="widget" data-settings="{&quot;archive_cards_columns&quot;:&quot;3&quot;,&quot;archive_cards_columns_tablet&quot;:&quot;2&quot;,&quot;archive_cards_columns_mobile&quot;:&quot;1&quot;,&quot;archive_cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]}}" data-widget_type="archive-posts.archive_cards">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid elementor-has-item-ratio">
+				<article class="elementor-post elementor-grid-item post-6100 post type-post status-publish format-standard hentry category-colombia category-ofertas-laborales entry">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.sophossolutions.com/desarrollador-java-aws/">
+				Desarrollador Java AWS			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Desarrollador <strong>Java</strong> AWS 3 años de experiencia participado en roles de desarrollo en <strong>Java</strong>, Angular, <strong>Java</strong>Script, Spring Boot, Bootstrap, Maqueteo. Con experiencia en desarrollo de componentes AWS y versionamiento con…</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.sophossolutions.com/desarrollador-java-aws/">
+				Ver Detalles »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			5 octubre, 2020		</span>
+				<span class="elementor-post-avatar">
+			No hay comentarios		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-6075 post type-post status-publish format-standard hentry category-colombia category-ofertas-laborales entry">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.sophossolutions.com/desarrollador-java-pl-sql-2/">
+				Líder Técnico Java			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Líder Técnico <strong>Java</strong> Profesional en Ingeniería de sistemas o carreas a fines con experiencia mínima de 5 años en desarrollo <strong>Java</strong>, Pl/sql, liderando equipo de trabajo, trabajo bajo metodología ágiles,…</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.sophossolutions.com/desarrollador-java-pl-sql-2/">
+				Ver Detalles »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			5 octubre, 2020		</span>
+				<span class="elementor-post-avatar">
+			No hay comentarios		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-6072 post type-post status-publish format-standard hentry category-colombia category-ofertas-laborales entry">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.sophossolutions.com/desarrollador-java-pl-sql/">
+				Desarrollador Java PL/SQL			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Desarrollador <strong>Java</strong> PL/SQL Profesional en Ingeniería de sistemas o carreras a fines con experiencia mínima de 2 años en desarrollo <strong>Java</strong>, Pl/sql. Experiencia en weblogic, servicios REST y SOAP, hibernate,…</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.sophossolutions.com/desarrollador-java-pl-sql/">
+				Ver Detalles »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			5 octubre, 2020		</span>
+				<span class="elementor-post-avatar">
+			No hay comentarios		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-6084 post type-post status-publish format-standard hentry category-colombia category-ofertas-laborales entry">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.sophossolutions.com/desarrollador-java-con-sprint-y-sprintboot/">
+				Desarrollador Java con Sprint y Sprintboot			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Desarrollador <strong>Java</strong> con Sprint y Sprintboot Conocimientos en POO (Programación Orientada a Objetos) – Conocimientos básicos en diagramas UML. – API’s – Base de datos: Posgresql, mysql – IDE de…</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.sophossolutions.com/desarrollador-java-con-sprint-y-sprintboot/">
+				Ver Detalles »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			5 octubre, 2020		</span>
+				<span class="elementor-post-avatar">
+			No hay comentarios		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-5888 post type-post status-publish format-standard hentry category-colombia category-ofertas-laborales entry">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.sophossolutions.com/desarrollador-java-bilingue/">
+				Desarrollador Java Bilingue			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Adjunta tu hoja de vida Tu nombre * Tu correo electrónico * Tu mensaje Para mas informacion comunicate a: erika.caicedo@sophossolutions.com…</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.sophossolutions.com/desarrollador-java-bilingue/">
+				Ver Detalles »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			17 julio, 2020		</span>
+				<span class="elementor-post-avatar">
+			No hay comentarios		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-5868 post type-post status-publish format-standard hentry category-colombia category-ofertas-laborales entry">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.sophossolutions.com/desarrollador-java/">
+				Desarrollador Java			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Adjunta tu hoja de vida Tu nombre * Tu correo electrónico * Tu mensaje Para mas informacion comunicate a: erika.caicedo@sophossolutions.com…</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.sophossolutions.com/desarrollador-java/">
+				Ver Detalles »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			17 julio, 2020		</span>
+				<span class="elementor-post-avatar">
+			No hay comentarios		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-6047 post type-post status-publish format-standard hentry category-colombia category-ofertas-laborales entry">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.sophossolutions.com/desarrolladores-backend/">
+				Desarrolladores Backend			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Desarrolladores Backend Profesional en Ingeniería de sistemas o afines con experiencia en desarrollo <strong>Java</strong>.Conocimientos en <strong>Java</strong>, JEE, Oracle. Soportando los despliegues mediante contenedores (Docker/Kubernetes) e infraestructura de nube (AWS/Azure)Conocimiento en…</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.sophossolutions.com/desarrolladores-backend/">
+				Ver Detalles »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			5 octubre, 2020		</span>
+				<span class="elementor-post-avatar">
+			No hay comentarios		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-6039 post type-post status-publish format-standard hentry category-colombia category-ofertas-laborales entry">
+			<div class="elementor-post__card">
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://www.sophossolutions.com/desarrollador-fullstack-2/">
+				Desarrollador FullStack			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Desarrollador FullStack Profesional en Ingeniería de Sistemas o afines, con experiencia en desarrollo de aplicaciones web en (Angular/React/Vue/<strong>Java</strong>Script), y microservicios (SOAP/REST) en <strong>Java</strong> (Spring Boot), Node.js (Express.js), soportando los despliegues…</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://www.sophossolutions.com/desarrollador-fullstack-2/">
+				Ver Detalles »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			5 octubre, 2020		</span>
+				<span class="elementor-post-avatar">
+			No hay comentarios		</span>
+				</div>
+					</div>
+		</article>
+				</div>
+				<nav class="elementor-pagination" role="navigation" aria-label="Paginación">
+			<span aria-current="page" class="page-numbers current"><span class="elementor-screen-only">Página</span>1</span>
+<a class="page-numbers" href="https://www.sophossolutions.com/page/2/?s=java"><span class="elementor-screen-only">Página</span>2</a>		</nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		
+        </main><!-- #main -->
+
+        
+        
+        		<div data-elementor-type="footer" data-elementor-id="320" class="elementor elementor-320 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<footer class="elementor-section elementor-top-section elementor-element elementor-element-78adce23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="78adce23" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22e3b711" data-id="22e3b711" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-3b191c49 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3b191c49" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-narrow">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5f537621" data-id="5f537621" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-48bd8f39 elementor-widget elementor-widget-heading" data-id="48bd8f39" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Nuestras Sedes</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1b6c582a elementor-widget elementor-widget-heading" data-id="1b6c582a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Colombia:</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6013a36 elementor-widget elementor-widget-heading" data-id="6013a36" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Bogotá </h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fdc1d38 elementor-widget elementor-widget-text-editor" data-id="fdc1d38" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Carrera 11 No. 71 – 73 Piso 4<br>Edificio Davivienda<br>+(57) 743 3001 Ext. 1001-1002</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-dca65fb elementor-widget elementor-widget-text-editor" data-id="dca65fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Carrera 7 No.&nbsp; 26 – 20 Piso 30<br>+(57) 743 3001 Ext. 1301&nbsp;</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2a45339 elementor-widget elementor-widget-heading" data-id="2a45339" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Medellín</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-50714bf elementor-widget elementor-widget-text-editor" data-id="50714bf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Carrera 48 No. 20 – 34 – Ofi. 1009<br>Centro Empresarial – Ciudad del Rio<br>&nbsp;+(57) 4 605 1010</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c6b3b86 elementor-widget elementor-widget-heading" data-id="c6b3b86" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Chile:</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7db08b8 elementor-widget elementor-widget-heading" data-id="7db08b8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Santiago de Chile</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8e62543 elementor-widget elementor-widget-text-editor" data-id="8e62543" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Agustinas 833 – Piso 10, Ofi 101<br>+(56) 2 2797 1200</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-66bb54d0" data-id="66bb54d0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4517e12 elementor-widget elementor-widget-spacer" data-id="4517e12" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-aab5446 elementor-widget elementor-widget-heading" data-id="aab5446" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">México:</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c51206b elementor-widget elementor-widget-heading" data-id="c51206b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Ciudad de México</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-805eb7e elementor-widget elementor-widget-text-editor" data-id="805eb7e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Torre Reforma Latino | Paseo de la Reforma 296, piso 41, Colonia Juárez, Alcaldía Cuauhtémoc</p><p>+(52) 55 5985 4488 Ext. 1101</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-158a520 elementor-widget elementor-widget-heading" data-id="158a520" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Panamá:</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d1813c9 elementor-widget elementor-widget-heading" data-id="d1813c9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Ciudad de Panamá</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-034f3a8 elementor-widget elementor-widget-text-editor" data-id="034f3a8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Ciudad del Saber<br>Edificio 224 Piso 1, Oficina H<br>+(507) 306 3170 Ext. 3538</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e99d234 elementor-widget elementor-widget-heading" data-id="e99d234" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Estados Unidos</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3d8bfdb elementor-widget elementor-widget-heading" data-id="3d8bfdb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">New Jersey</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dcbde16 elementor-widget elementor-widget-text-editor" data-id="dcbde16" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><div><p><span lang="EN-US">200 Middlesex Essex Turnpike,<br></span><span lang="EN-US">Suite 303<br></span><span lang="EN-US">Iselin, NJ 08830<br></span>(+1) 732-710-3804</p></div></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-52ed6a9d" data-id="52ed6a9d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-569b8cc elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="569b8cc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="520" height="469" src="https://www.sophossolutions.com/wp-content/uploads/2021/01/Badge-aws-advanced.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2021/01/Badge-aws-advanced.jpg 520w, https://www.sophossolutions.com/wp-content/uploads/2021/01/Badge-aws-advanced-300x271.jpg 300w" sizes="(max-width: 520px) 100vw, 520px" data-pagespeed-url-hash="1353608814" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c0e2a8e elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="c0e2a8e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="58" src="https://www.sophossolutions.com/wp-content/uploads/2019/07/2712-DEV-Color-300x58.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.sophossolutions.com/wp-content/uploads/2019/07/2712-DEV-Color-300x58.png 300w, https://www.sophossolutions.com/wp-content/uploads/2019/07/2712-DEV-Color-768x149.png 768w, https://www.sophossolutions.com/wp-content/uploads/2019/07/2712-DEV-Color.png 975w" sizes="(max-width: 300px) 100vw, 300px" data-pagespeed-url-hash="1095433306" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4033936 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="4033936" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="37" height="63" src="https://www.sophossolutions.com/wp-content/uploads/2019/07/GPTW.png" class="attachment-full size-full" alt="" loading="lazy" data-pagespeed-url-hash="4038441253" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9a0503d elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="9a0503d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="33" height="63" src="https://www.sophossolutions.com/wp-content/uploads/2019/07/Icontec.png" class="attachment-full size-full" alt="" loading="lazy" data-pagespeed-url-hash="3032074258" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9375043 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="9375043" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://www.sophossolutions.com/wp-content/uploads/elementor/thumbs/BV_Cert_ISO9001-2015-01-e1564604305724-off49mee6ix5wsa2zhskcjsai51bbwmre8nv06hdi8.png" title="BV_Cert_ISO9001-2015-01" alt="BV_Cert_ISO9001-2015-01" data-pagespeed-url-hash="3857063888" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4578cbf elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="4578cbf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://www.sophossolutions.com/wp-content/uploads/elementor/thumbs/CDS_LOGO_TRANSPARENTE-off4745vci3j8jb5a63ackav18z3q9gwmmu89i9jw4.png" title="CDS_LOGO_TRANSPARENTE" alt="CDS_LOGO_TRANSPARENTE" data-pagespeed-url-hash="2812799111" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d6a6a4b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="d6a6a4b" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-62c26966" data-id="62c26966" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6faae2f elementor-widget elementor-widget-heading" data-id="6faae2f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Informacion Corporativa</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3bc6987 elementor-widget elementor-widget-text-editor" data-id="3bc6987" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><ul><li><a href="https://www.sophossolutions.com/wp-content/uploads/2020/09/M-GSH-22-Codigo-Buen-Gobierno_V04_20200914.pdf" target="_blank" rel="noopener">Código de Buen Gobierno</a></li><li><a href="https://www.sophossolutions.com/wp-content/uploads/2021/01/PL-LGL-01-Politica-de-Tratamiento-de-Datos-Personales_V05_20201223.pdf" target="_blank" rel="noopener">Política de Tratamiento de Datos</a></li><li><a href="https://www.sophossolutions.com/wp-content/uploads/2021/09/M-GSH-16-Codigo-de-Etica_V09_20210928-1.pdf" target="_blank" rel="noopener">Código de Ética</a></li><li><a href="https://www.sophossolutions.com/wp-content/uploads/2021/01/F-GSHM-04-Aviso-Privacidad_V02_20200826-1.pdf" target="_blank" rel="noopener">Aviso de Privacidad Sophos Technology S.A. de C.V. (Mexico)</a></li><li><a href="https://www.sophossolutions.com/wp-content/uploads/2021/01/F-LGL-02-Aviso-de-Privacidad-Sophos-Solutions-S.A.S_V02_20210121.pdf" target="_blank" rel="noopener">Aviso de Privacidad Sophos Solutions S.A.S (Colombia)</a></li><li><a href="https://www.sophossolutions.com/wp-content/uploads/2021/11/PL-SSI-01-Politica-de-Seguridad-de-la-Informacion_V10_pagina-WEB.pdf" target="_blank" rel="noopener">Política de seguridad&nbsp;</a></li></ul></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6682f9f elementor-align-left elementor-invisible elementor-widget elementor-widget-button" data-id="6682f9f" data-element_type="widget" data-settings="{&quot;motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.sophossolutions.com/contacto/" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contacto</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-83ec8e5 elementor-widget elementor-widget-spacer" data-id="83ec8e5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ab76899 elementor-align-left elementor-widget elementor-widget-button" data-id="ab76899" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.sophossolutions.com/canal-etico/" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Canal Ético</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-812e20b elementor-align-left elementor-widget elementor-widget-button" data-id="812e20b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://flow2l.sophossolutions.com/Pqrs/ViewPqrsInRequest" target="_blank" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">PQR</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e6e7306 elementor-widget elementor-widget-spacer" data-id="e6e7306" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d8aa9c8 elementor-align-left elementor-widget elementor-widget-button" data-id="d8aa9c8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://services.sophossolutions.com/" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Nuestro Talento</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-510ffbab elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="510ffbab" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/sophossolutionssas" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-b72bfac" href="https://twitter.com/sophossolutions" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-d550229" href="https://www.instagram.com/sophos.solutions/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-ebdf6fa" href="https://www.linkedin.com/company/sophos-solutions-sas/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3e59c9bb elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3e59c9bb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2e660b7e" data-id="2e660b7e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-30732e5 elementor-widget elementor-widget-text-editor" data-id="30732e5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>2019 Sophos Solutions S.A.S. © All Rights Reserved</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</footer>
+				</div>
+		</div>
+		
+                        
+    </div><!-- #wrap -->
+
+    
+</div><!-- #outer-wrap -->
+
+
+
+<a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-angle-up"></span></a>
+
+
+<div id="sidr-close">
+	<a href="#" class="toggle-sidr-close">
+		<i class="icon icon-close"></i><span class="close-text">Cerrar menú</span>
+	</a>
+</div>
+    
+    
+<div id="mobile-menu-search" class="clr">
+	<form method="get" action="https://www.sophossolutions.com/" class="mobile-searchform">
+		<input type="search" name="s" autocomplete="off" placeholder="Buscar">
+		<button type="submit" class="searchform-submit">
+			<i class="icon icon-magnifier"></i>
+		</button>
+			</form>
+</div><!-- .mobile-menu-search -->
+
+<link rel="stylesheet" id="elementor-post-2218-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-2218.css?ver=1620765280" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-1958-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-1958.css?ver=1620765280" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-1961-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-1961.css?ver=1620765280" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-2222-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-2222.css?ver=1620765280" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-1882-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-1882.css?ver=1620765280" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-1866-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-1866.css?ver=1620765281" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-2226-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-2226.css?ver=1635952650" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-1970-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-1970.css?ver=1620765281" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-1973-css" href="https://www.sophossolutions.com/wp-content/uploads/elementor/css/post-1973.css?ver=1636409148" type="text/css" media="all">
+<script type="text/javascript" id="contact-form-7-js-extra">//<![CDATA[
+var wpcf7={"apiSettings":{"root":"https:\/\/www.sophossolutions.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+//]]></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LeYO-AUAAAAAKvelEzcxatUICE06O2cgU2Lslls&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.7.1" id="magnific-popup-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.7.1" id="oceanwp-lightbox-js"></script>
+<script type="text/javascript" id="oceanwp-main-js-extra">//<![CDATA[
+var oceanwpLocalize={"isRTL":"","menuSearchStyle":"drop_down","sidrSource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"icon","verticalHeaderTarget":"icon","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/www.sophossolutions.com\/wp-admin\/admin-ajax.php"};
+//]]></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.7.1" id="oceanwp-main-js"></script>
+<script type="text/javascript" id="wpcf7cf-scripts-js-extra">//<![CDATA[
+var wpcf7cf_global_settings={"ajaxurl":"https:\/\/www.sophossolutions.com\/wp-admin\/admin-ajax.php"};
+//]]></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=1.8.3" id="wpcf7cf-scripts-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1" id="hoverIntent-js"></script>
+<script type="text/javascript" id="megamenu-js-extra">//<![CDATA[
+var megamenu={"timeout":"300","interval":"100"};
+//]]></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.7.2" id="megamenu-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-includes/js/wp-embed.min.js?ver=5.5.7" id="wp-embed-js"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.sophossolutions.com/wp-content/themes/oceanwp/assets/js//third/html5.min.js?ver=1.7.1' id='html5shiv-js'></script>
+<![endif]-->
+<script type="text/javascript" id="06a943c59-js-extra">//<![CDATA[
+var localize={"ajaxurl":"https:\/\/www.sophossolutions.com\/wp-admin\/admin-ajax.php","nonce":"84b08e58b4"};
+//]]></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/uploads/essential-addons-elementor/06a943c59.min.js?ver=1639171610" id="06a943c59-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.10" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.5" id="elementor-sticky-js"></script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">var ElementorProFrontendConfig={"ajaxurl":"https:\/\/www.sophossolutions.com\/wp-admin\/admin-ajax.php","nonce":"f41d8b6854","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"weixin":{"title":"WeChat"},"weibo":{"title":"Weibo"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.sophossolutions.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};</script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.5" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4" id="jquery-ui-position-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1" id="elementor-dialog-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.10" id="share-link-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">var elementorFrontendConfig={"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.10","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/www.sophossolutions.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Has buscado java - Sophos Solutions S.A.S","excerpt":""}};</script>
+<script type="text/javascript" src="https://www.sophossolutions.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.10" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script type="text/javascript">(function(grecaptcha,sitekey,actions){var wpcf7recaptcha={execute:function(action){grecaptcha.execute(sitekey,{action:action}).then(function(token){var forms=document.getElementsByTagName('form');for(var i=0;i<forms.length;i++){var fields=forms[i].getElementsByTagName('input');for(var j=0;j<fields.length;j++){var field=fields[j];if('g-recaptcha-response'===field.getAttribute('name')){field.setAttribute('value',token);break;}}}});},executeOnHomepage:function(){wpcf7recaptcha.execute(actions['homepage']);},executeOnContactform:function(){wpcf7recaptcha.execute(actions['contactform']);},};grecaptcha.ready(wpcf7recaptcha.executeOnHomepage);document.addEventListener('change',wpcf7recaptcha.executeOnContactform,false);document.addEventListener('wpcf7submit',wpcf7recaptcha.executeOnHomepage,false);})(grecaptcha,'6LeYO-AUAAAAAKvelEzcxatUICE06O2cgU2Lslls',{"homepage":"homepage","contactform":"contactform"});</script>
+
+<div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LeYO-AUAAAAAKvelEzcxatUICE06O2cgU2Lslls&amp;co=aHR0cHM6Ly93d3cuc29waG9zc29sdXRpb25zLmNvbTo0NDM.&amp;hl=es-419&amp;v=rPvs0Nyx3sANE-ZHUN-0nM85&amp;size=invisible&amp;cb=mqnxikfe89mn" width="256" height="60" role="presentation" name="a-x0p6cakdt1d3" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></body></html>

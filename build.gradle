@@ -1,0 +1,39 @@
+buildscript {
+    repositories {
+        mavenLocal()
+        jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath("net.serenity-bdd:serenity-gradle-plugin:2.4.34")
+    }
+}
+
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+apply plugin: 'java'
+apply plugin: 'net.serenity-bdd.aggregator'
+
+dependencies {
+
+
+    testImplementation 'junit:junit:4.12'
+    implementation 'net.serenity-bdd:serenity-core:2.0.82'
+    implementation 'net.serenity-bdd:serenity-cucumber:1.9.45'
+    implementation 'net.serenity-bdd:serenity-screenplay:2.0.82'
+    implementation 'net.serenity-bdd:serenity-screenplay-webdriver:2.0.82'
+    implementation 'org.seleniumhq.selenium:selenium-server:3.14.0'
+    implementation 'org.assertj:assertj-core:3.16.1'
+    implementation 'org.slf4j:slf4j-simple:1.7.30'
+
+}
+
